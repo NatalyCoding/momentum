@@ -1,3 +1,3 @@
 # momentum
 
-A landing page with the time that we can interact with and save our name/focus to local storage
+This project is a landing page which includes a time that we can interact with. Also we can save our name and focus to local storage.
